@@ -1,0 +1,76 @@
+{
+    "Videos": [
+        ".mp4",
+        ".avi",
+        ".mov",
+        ".mkv",
+        ".wmv",
+        ".flv",
+        ".webm",
+        ".gif"
+    ],
+    "Audios": [
+        ".mp3",
+        ".wav",
+        ".ogg",
+        ".flac",
+        ".aac",
+        ".m4a"
+    ],
+    "Images": [
+        ".jpg",
+        ".jpeg",
+        ".png",
+        ".bmp",
+        ".gif",
+        ".tiff",
+        ".webp"
+    ],
+    "Compressed": [
+        ".zip",
+        ".rar",
+        ".7z",
+        ".tar",
+        ".gz",
+        ".bz2",
+        ".xz"
+    ],
+    "Documents": [
+        ".pdf",
+        ".doc",
+        ".docx",
+        ".txt",
+        ".rtf",
+        ".odt",
+        ".xls",
+        ".xlsx",
+        ".csv",
+        ".ppt",
+        ".pptx"
+    ],
+    "Programs": [
+        ".exe",
+        ".msi",
+        ".bat",
+        ".sh"
+    ],
+    "General": [
+        ".iso",
+        ".tar.gz",
+        ".html",
+        ".css",
+        ".js",
+        ".php",
+        ".py",
+        ".java",
+        ".cpp",
+        ".h",
+        ".xml",
+        ".json",
+        ".log"
+    ],
+    "3ds": [
+        ".fbx",
+        ".suma"
+    ]
+}

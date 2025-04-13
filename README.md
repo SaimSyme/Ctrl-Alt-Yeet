@@ -20,9 +20,7 @@ Go nuts.
 <h3>Application</h3>
 Heres how it looks like:
 
-![image](![image](https://github.com/user-attachments/assets/12f4584a-d37d-4cdc-a978-e1eb13af2e8e)
-<br>
-![image](![image](https://github.com/user-attachments/assets/5c7d4a32-3f8b-46c7-8d38-1335a9037e8f)
+![Untitled-2](https://github.com/user-attachments/assets/e6bf3ae1-81d3-4be1-8526-7138fc8123eb)
 
 <h3>Licenses</h3>
 Distributed under the MIT License.
